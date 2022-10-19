@@ -22,4 +22,16 @@ console.log(typeof salario)
 console.log(typeof comission)
 console.log(typeof admissao)
 
-console.log("O nome do funcionário é", nome, "Nasceu em", nascimento, "mora no endereço", endereco, "inscrito no CPF sob número", cpf, "seu nível de escolaridade é", escolaridade, "o mesmo informou que", cnh, "é possuidor de uma CNH", "possui", prole, "filho(s)", "seu cargo atual é", cargo, "seu salário atual é", salario, "recebe", comission, "porcento de comissão atualmente", "admitido em", admissao)
+
+
+console.log("O nome do funcionário é", nome)
+console.log("Nasceu em", nascimento)
+console.log("Mora no endereço", endereco)
+console.log("Inscrito no CPF sob número", cpf)
+console.log("Seu nível de escolaridade é", escolaridade)
+console.log("O mesmo informou que", cnh, "é possuidor de uma CNH")
+console.log("Possui", prole, "filho(s)")
+console.log("Seu cargo atual é", cargo)
+console.log("Seu salário atual é", salario)
+console.log("Recebe", comission, "porcento de comissão")
+console.log("Admitido em", admissao)
